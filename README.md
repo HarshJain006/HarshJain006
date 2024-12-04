@@ -1,5 +1,43 @@
-# 💫 About Me:
-👋 Hello, World!<br>AI Engineer in Training | Tech Innovator | Curious Creator<br><br>🌟 Who Am I?<br>🎓 PGDAI Candidate at C-DAC Acts Pune<br>🤖 Passionate about AI-driven innovation and crafting real-world solutions<br>🛠 A lifelong learner exploring the intersection of ML, NLP, DL, and Creative Development<br>🌍 Aiming to reshape AI's impact on industries<br>💻 What Drives Me?<br>🚀 The challenge of transforming concepts into impactful projects<br>🎨 Blending creativity with code craftsmanship<br>🌐 Exploring the ever-evolving tech landscape, from backtracking algorithms to multi-label classification<br><br>📚 Portfolio Highlights<br>🎧 Signal Processing and Audio Signal Processor<br>Challenge: Enhancing signal clarity for deeper insights.<br>Outcome: A tool with real-time audio filters like high-pass, band-pass, and notch filters.<br>📊 Share Market Analysis<br>📈 Leveraging Matplotlib, SciPy, and Machine Learning to decode financial data trends and predictions.<br>🐾 Cat-Dog Classifier<br>🖼 Developing a computer vision model that classifies images of cats and dogs.<br>🛠️ My Tech Stack<br>Languages	Python 🐍, Java ☕<br>Libraries	Pandas, Matplotlib, SciPy<br>Frameworks	TensorFlow, Keras<br>Concepts	Binary Logistic Regression, Backtracking, Signal Processing<br>💡 A Peek into My Goals<br>✨ Build pioneering AI projects that stand out in the tech world.<br>🧩 Contribute to open-source tools in NLP, Signal Processing, and ML.<br>🌟 Make AI more accessible and impactful through collaboration and innovation.<br>📝 Let’s Connect<br>💬 Check out my LinkedIn posts where I blend tech insights with creative storytelling.<br>✍️ Tagline: "Ab Python seekh hi liya to kuch AI banate hain!"<br>📌 Professional, creative, and driven—let's build the future together!<br><br>
+👋 Hello, World!
+AI Engineer in Training | Tech Innovator | Curious Creator
+
+🌟 Who Am I?
+🎓 PGDAI Candidate at C-DAC Acts Pune
+🤖 Passionate about AI-driven innovation and crafting real-world solutions
+🛠 A lifelong learner exploring the intersection of ML, NLP, DL, and Creative Development
+🌍 Aiming to reshape AI's impact on industries
+💻 What Drives Me?
+🚀 The challenge of transforming concepts into impactful projects
+🎨 Blending creativity with code craftsmanship
+🌐 Exploring the ever-evolving tech landscape, from backtracking algorithms to multi-label classification
+
+📚 Portfolio Highlights
+🎧 Signal Processing and Audio Signal Processor
+Challenge: Enhancing signal clarity for deeper insights.
+Outcome: A tool with real-time audio filters like high-pass, band-pass, and notch filters.
+📊 Share Market Analysis
+📈 Leveraging Matplotlib, SciPy, and Machine Learning to decode financial data trends and predictions.
+🐾 Cat-Dog Classifier
+🖼 Developing a computer vision model that classifies images of cats and dogs.
+
+
+🛠️ My Tech Stack
+Languages	Python 🐍, Java ☕
+Libraries	Pandas, Matplotlib, SciPy
+Frameworks	TensorFlow, Keras
+Concepts	Binary Logistic Regression, Backtracking, Signal Processing
+
+
+💡 A Peek into My Goals
+✨ Build pioneering AI projects that stand out in the tech world.
+🧩 Contribute to open-source tools in NLP, Signal Processing, and ML.
+🌟 Make AI more accessible and impactful through collaboration and innovation.
+
+
+📝 Let’s Connect
+💬 Check out my LinkedIn posts where I blend tech insights with creative storytelling.
+✍️ Tagline: "Ab Python seekh hi liya to kuch AI banate hain!"
+📌 Professional, creative, and driven—let's build the future together!
 
 
 # 💻 Tech Stack:
