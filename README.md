@@ -1,3 +1,7 @@
+Here's the updated version of your GitHub profile with the LinkedIn link included:
+
+---
+
 👋 **Hello, World!**  
 **AI Engineer in Training | Tech Innovator | Curious Creator**
 
@@ -41,7 +45,8 @@ Outcome: A tool with real-time audio filters like high-pass, band-pass, and notc
 ---
 
 ### 📝 **Let’s Connect**  
-💬 Check out my LinkedIn posts where I blend tech insights with creative storytelling.  
+💬 Check out my LinkedIn: [Harsh Jain](https://www.linkedin.com/in/harsh-jain-8623421ab/)  
+✍️ Tagline: "Ab Python seekh hi liya to kuch AI banate hain!"  
 📌 Professional, creative, and driven—let's build the future together!
 
 ---
