@@ -42,7 +42,6 @@ Outcome: A tool with real-time audio filters like high-pass, band-pass, and notc
 
 ### 📝 **Let’s Connect**  
 💬 Check out my LinkedIn posts where I blend tech insights with creative storytelling.  
-✍️ Tagline: "Ab Python seekh hi liya to kuch AI banate hain!"  
 📌 Professional, creative, and driven—let's build the future together!
 
 ---
