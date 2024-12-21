@@ -1,7 +1,3 @@
-Here's how you can structure your GitHub profile:
-
----
-
 👋 **Hello, World!**  
 **AI Engineer in Training | Tech Innovator | Curious Creator**
 
