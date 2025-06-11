@@ -1,61 +1,73 @@
-<h1 align="center">Hi there, I'm Harsh Jain 👋</h1>
-<h3 align="center">AI Engineer | 3D Modelling Explorer | Electronics Hacker</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=FF6C00&center=true&vCenter=true&width=900&height=100&lines=🚀+WELCOME+TO+MY+DOMAIN+%F0%9F%97%BB;👁️+I+SEE+YOU+STALKING+MY+GITHUB...+FOLLOW+ME!+🔥" />
+</p>
+
+<h1 align="center" style="font-size:80px;">⚡ HARSH JAIN ⚡</h1>
+<h2 align="center" style="font-size:40px;">🧠 AI ENGINEER | 🎮 3D MODELLER | 🔌 ELECTRONICS ALCHEMIST</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Exploring+AI+%7C+3D+Modelling+%7C+Hardware+Fusion;ElectronicsPCB+%2B+LLMs+%3D+Magic;Learning+Relentlessly%2C+Building+Creatively" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/MIND-HARDWARE%20%2B%20AI-red?style=for-the-badge&logo=nintendo&logoColor=white" />
+  <img src="https://img.shields.io/badge/BUILT-IN%20INDIA-%F0%9F%87%AE%F0%9F%87%B3-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-NEVER%20CHILLING-blueviolet?style=for-the-badge&logo=powerbi" />
 </p>
 
 ---
 
-🔬 **About Me**
+## 💥 WHO AM I?
 
-- 💡 Passionate about building at the intersection of **AI, hardware, and creativity**
-- 🧠 Focused on **Generative AI**, **Large Language Models**, **Speech & Signal Processing**
-- 🔧 Tinkering with **microcontrollers**, **sensor networks**, and **PCB design**
-- 🖼️ Exploring **3D Modelling** for robotics enclosures, PCBs, and immersive tech
-- 🧪 Constantly experimenting with **AI x Electronics**: sensors + smart logic + automation
-- 📍 Based in Bangalore | Working @ C-DAC on GenAI Systems
-
----
-
-🎯 **What I Love Building**
-
-- 🤖 AI Assistants that listen, respond, and even control screens
-- 🎛️ Intelligent hardware that can sense and react
-- 🎨 Creative 3D designs that fuse form and function
-- 🧠 Real-time signal processors, audio transformers, and LLM-integrated systems
+> 🛠️ **I build futuristic stuff.**  
+> 🤖 I code AI that listens, thinks, and acts.  
+> 🎛️ I design circuits that blink, buzz, and behave smartly.  
+> 🧱 I model in 3D what others can’t even imagine in 2D.  
+> 🔁 I fuse hardware & AI into one unstoppable force.
 
 ---
 
-🛠️ **Tech & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,arduino,tensorflow,pytorch,fastapi,threejs,blender,git,linux,vercel" />
-</p>
-
----
-
-📊 **GitHub Stats**
+## 👨‍💻 TECH STACK OF A CYBORG:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,arduino,tensorflow,pytorch,blender,threejs,fastapi,linux,git,java&theme=dark" height="140" />
 </p>
 
 ---
 
-📫 **Let's Connect**
+## 🔮 VIBES I OPERATE ON
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat&logo=internetexplorer)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-harshjain@example.com-red?style=flat&logo=gmail)](mailto:harshjain@example.com)
+- 🧠 Artificial Intelligence that feels *almost* human  
+- 🎙️ Real-time audio & signal magic  
+- 🛠️ Custom PCB design + embedded systems  
+- 🧊 Blender + Three.js for the ultimate 3D UI/UX  
+- 🧬 Fusing ML with hardware for mind-blowing results
 
 ---
 
-🧠 _“Tech meets creativity — that’s where the future is built.”_
+<h2 align="center">🔥 FOLLOW ME OR STAY BASIC 🔥</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&show_icons=true&hide_border=false&border_radius=10&count_private=true&include_all_commits=true" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast" width="500"/>
+</p>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<p align="center">
+  <a href="mailto:harshjain@example.com">
+    <img src="https://img.shields.io/badge/Gmail-DM%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Talk-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center" style="font-size:40px;">⚠️ WARNING: FOLLOWING ME MAY TRIGGER INSPIRATION ⚠️</h3>
+
 
 
 ### 💻 **Tech Stack:**  
