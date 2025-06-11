@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=FF6C00&center=true&vCenter=true&width=900&height=100&lines=WELCOME+TO+MY+DOMAIN;I+SEE+YOU+STALKING+MY+GITHUB...+FOLLOW+ME!" />
-</p>
-
 <h1 align="center">⚡ HARSH JAIN ⚡</h1>
 <h2 align="center">🧠 AI ENGINEER | 🎮 3D MODELLER | 🔌 ELECTRONICS ALCHEMIST</h2>
 
@@ -9,6 +5,10 @@
   <img src="https://img.shields.io/badge/MIND-HARDWARE%20%2B%20AI-red?style=for-the-badge&logo=nintendo&logoColor=white" />
   <img src="https://img.shields.io/badge/BUILT-IN%20INDIA-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/STATUS-NEVER%20CHILLING-blueviolet?style=for-the-badge&logo=powerbi" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=FF6C00&center=true&vCenter=true&width=900&height=100&lines=WELCOME+TO+MY+DOMAIN;I+SEE+YOU+STALKING+MY+GITHUB...+FOLLOW+ME!" />
 </p>
 
 ---
