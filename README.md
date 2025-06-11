@@ -16,10 +16,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="700" />
-</p>
-
 ---
 
 <h2 align="center">⚡ Tech Stack</h2>
