@@ -2,7 +2,6 @@
 **AI Engineer in Training | Tech Innovator | Curious Creator**
 
 🌟 **Who Am I?**  
-🎓 PGDAI Candidate at C-DAC Acts Pune  
 🤖 Passionate about AI-driven innovation and crafting real-world solutions  
 🛠 A lifelong learner exploring the intersection of ML, NLP, DL, and Creative Development  
 🌍 Aiming to reshape AI's impact on industries  
