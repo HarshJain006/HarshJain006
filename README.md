@@ -1,4 +1,4 @@
-<h1 align="center">⚡ HARSH JAIN ⚡</h1>
+<h1 align="center">⚡ HARSH JAIN ⚡</h0>
 <h2 align="center">🧠 AI ENGINEER | 🎮 3D MODELLER | 🔌 ELECTRONICS ALCHEMIST</h2>
 
 <p align="center">
