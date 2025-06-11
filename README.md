@@ -1,8 +1,9 @@
+<h1 align="center" style="font-size:80px;">⚡ HARSH JAIN ⚡</h1>
+<h2 align="center" style="font-size:40px;">🧠 AI ENGINEER | 🎮 3D MODELLER | 🔌 ELECTRONICS ALCHEMIST</h2>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F745A2&width=800&lines=WELCOME+TO+MY+DOMAIN;STALKING+MY+GITHUB%3F+FOLLOW+ME!" />
 </p>
-<h1 align="center" style="font-size:80px;">⚡ HARSH JAIN ⚡</h1>
-<h2 align="center" style="font-size:40px;">🧠 AI ENGINEER | 🎮 3D MODELLER | 🔌 ELECTRONICS ALCHEMIST</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUILT-IN%20INDIA-green?style=for-the-badge" />
