@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | 3D Modelling Explorer | Electronics Hacker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Exploring+AI+%7C+3D+Modelling+%7C+Hardware+Fusion;Signal+Processing+%2B+LLMs+%3D+Magic;Learning+Relentlessly%2C+Building+Creatively" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Exploring+AI+%7C+3D+Modelling+%7C+Hardware+Fusion;ElectronicsPCB+%2B+LLMs+%3D+Magic;Learning+Relentlessly%2C+Building+Creatively" alt="Typing SVG" />
 </p>
 
 ---
