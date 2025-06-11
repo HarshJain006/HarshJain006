@@ -6,10 +6,6 @@
 <h2 align="center" style="font-size:40px;">🧠 AI ENGINEER | 🎮 3D MODELLER | 🔌 ELECTRONICS ALCHEMIST</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Exploring+AI+%7C+3D+Modelling+%7C+Hardware+Fusion;Signal+Processing+%2B+LLMs+%3D+Magic;Learning+Relentlessly%2C+Building+Creatively" alt="Typing SVG" />
-</p> 
-
-<p align="center">
   <img src="https://img.shields.io/badge/MIND-HARDWARE%20%2B%20AI-red?style=for-the-badge&logo=nintendo&logoColor=white" />
   <img src="https://img.shields.io/badge/BUILT-IN%20INDIA-%F0%9F%87%AE%F0%9F%87%B3-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/STATUS-NEVER%20CHILLING-blueviolet?style=for-the-badge&logo=powerbi" />
@@ -71,6 +67,7 @@
 ---
 
 <h3 align="center" style="font-size:40px;">⚠️ WARNING: FOLLOWING ME MAY TRIGGER INSPIRATION ⚠️</h3>
+
 
 
 
