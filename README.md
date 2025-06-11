@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39FF14&width=800&lines=I+Build+AI+that+Thinks.;3D+that+Breathes.;Circuits+that+Feel+Alive." />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/BUILT-IN%20INDIA-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/STATUS-NEVER%20CHILLING-blueviolet?style=for-the-badge&logo=powerbi" />
 </p>
