@@ -2,7 +2,7 @@
 <h2 align="center" style="font-size:40px;">🧠 AI ENGINEER | 🎮 3D MODELLER | 🔌 ELECTRONICS ALCHEMIST</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=FF6C00&center=true&vCenter=true&width=900&height=100&lines=🚀+WELCOME+TO+MY+DOMAIN+%F0%9F%97%BB;👁️+I+SEE+YOU+STALKING+MY+GITHUB...+FOLLOW+ME!+🔥" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Exploring+AI+%7C+3D+Modelling+%7C+Hardware+Fusion;Signal+Processing+%2B+LLMs+%3D+Magic;Learning+Relentlessly%2C+Building+Creatively" alt="Typing SVG" />
 </p>
 
 <p align="center">
