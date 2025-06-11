@@ -11,16 +11,6 @@
 🎨 Blending creativity with code craftsmanship  
 🌐 Exploring the ever-evolving tech landscape, from backtracking algorithms to multi-label classification
 
-📚 **Portfolio Highlights**  
-🎧 **Signal Processing and Audio Signal Processor**  
-Challenge: Enhancing signal clarity for deeper insights.  
-Outcome: A tool with real-time audio filters like high-pass, band-pass, and notch filters.  
-
-📊 **Share Market Analysis**  
-📈 Leveraging Matplotlib, SciPy, and Machine Learning to decode financial data trends and predictions.  
-
-🐾 **Cat-Dog Classifier**  
-🖼 Developing a computer vision model that classifies images of cats and dogs.
 
 ---
 
