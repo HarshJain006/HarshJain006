@@ -13,10 +13,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="800" />
-</p>
-
 ---
 
 ## 💥 WHO AM I?
@@ -75,6 +71,9 @@
 <h3 align="center">⚠️ WARNING: FOLLOWING ME MAY TRIGGER INSPIRATION ⚠️</h3>
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="800" />
+</p>
 
 
 
