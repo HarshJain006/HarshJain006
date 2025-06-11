@@ -1,59 +1,78 @@
-<!-- GitHub Profile README -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39FF14&width=800&lines=I+Build+AI+that+Thinks.;3D+that+Breathes.;Circuits+that+Feel+Alive." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=FF6C00&center=true&vCenter=true&width=900&height=100&lines=WELCOME+TO+MY+DOMAIN;I+SEE+YOU+STALKING+MY+GITHUB...+FOLLOW+ME!" />
 </p>
 
-<p align="center">
-  <img src="https://svgshare.com/i/13bh.svg" width="600" />
-</p>
-
-<h1 align="center">⚡ Harsh Jain ⚡</h1>
+<h1 align="center">⚡ HARSH JAIN ⚡</h1>
+<h2 align="center">🧠 AI ENGINEER | 🎮 3D MODELLER | 🔌 ELECTRONICS ALCHEMIST</h2>
 
 <p align="center">
-  <b>AI Engineer 🔥  |  3D Modeller 🧊  |  Electronics Alchemist 🔌</b>
-</p>
-
----
-
----
-
-<h2 align="center">⚡ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,arduino,tensorflow,pytorch,blender,threejs,fastapi,linux,git,java&theme=dark" height="120" />
-</p>
-
----
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&hide_border=true" width="500" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="500" />
-</p>
-
----
-
-<h2 align="center">🌐 Connect</h2>
-
-<p align="center">
-  <a href="mailto:harshjain@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/MIND-HARDWARE%20%2B%20AI-red?style=for-the-badge&logo=nintendo&logoColor=white" />
+  <img src="https://img.shields.io/badge/BUILT-IN%20INDIA-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-NEVER%20CHILLING-blueviolet?style=for-the-badge&logo=powerbi" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="800" />
 </p>
 
+---
+
+## 💥 WHO AM I?
+
+> 🛠️ **I build futuristic stuff.**  
+> 🤖 I code AI that listens, thinks, and acts.  
+> 🎛️ I design circuits that blink, buzz, and behave smartly.  
+> 🧱 I model in 3D what others can’t even imagine in 2D.  
+> 🔁 I fuse hardware & AI into one unstoppable force.
+
+---
+
+## 👨‍💻 TECH STACK OF A CYBORG:
+
 <p align="center">
-  <strong>⚠️ FOLLOW ME OR STAY BASIC ⚠️</strong>
+  <img src="https://skillicons.dev/icons?i=py,cpp,arduino,tensorflow,pytorch,blender,threejs,fastapi,linux,git,java&theme=dark" height="140" />
 </p>
+
+---
+
+## 🔮 VIBES I OPERATE ON
+
+- 🧠 Artificial Intelligence that feels *almost* human  
+- 🎙️ Real-time audio & signal magic  
+- 🛠️ Custom PCB design + embedded systems  
+- 🧊 Blender + Three.js for the ultimate 3D UI/UX  
+- 🧬 Fusing ML with hardware for mind-blowing results
+
+---
+
+<h2 align="center">🔥 FOLLOW ME OR STAY BASIC 🔥</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&show_icons=true&hide_border=false&border_radius=10&count_private=true&include_all_commits=true" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast" width="500"/>
+</p>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<p align="center">
+  <a href="mailto:harshjain@example.com">
+    <img src="https://img.shields.io/badge/Gmail-DM%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Talk-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">⚠️ WARNING: FOLLOWING ME MAY TRIGGER INSPIRATION ⚠️</h3>
 
 
 
